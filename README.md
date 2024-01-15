@@ -1,7 +1,7 @@
 # Shield Insurance-Performance Analysis Report
 
 
-**Interactive Dashboard**: [Shield Insurance Performance Analysis ]([https://www.novypro.com/project/wavecon-telecom-data-analysis--power-bi](https://app.powerbi.com/view?r=eyJrIjoiZTk5YWQ0ZDktMWJiMi00NDRjLTg3NTUtMTk5NThmNTVmYzBiIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
+**Interactive Dashboard**: [Shield Insurance Performance Analysis ]([https://app.powerbi.com/view?r=eyJrIjoiZTk5YWQ0ZDktMWJiMi00NDRjLTg3NTUtMTk5NThmNTVmYzBiIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9])
 
 **Insight Presentation**: [Video Presentation]([https://github.com/Rejithadas/Telecom-Data-Analysis-/blob/main/Wavecon%20Telecom%20Presentation.mp4](https://github.com/Rejithadas/Shield-Insurance-Performance-Analysis/blob/main/Shield%20Insurance%20Analysis%20Presentation.mp4)
 
