@@ -3,7 +3,7 @@
 
 **Interactive Dashboard**: [Shield Insurance Performance Analysis ](https://app.powerbi.com/view?r=eyJrIjoiZTk5YWQ0ZDktMWJiMi00NDRjLTg3NTUtMTk5NThmNTVmYzBiIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
-**Insight Presentation**: [Video Presentation]([https://github.com/Rejithadas/Telecom-Data-Analysis-/blob/main/Wavecon%20Telecom%20Presentation.mp4](https://github.com/Rejithadas/Shield-Insurance-Performance-Analysis/blob/main/Shield%20Insurance%20Analysis%20Presentation.mp4)
+**Insight Presentation**: [Video Presentation](https://github.com/Rejithadas/Shield-Insurance-Performance-Analysis/blob/main/Shield%20Insurance%20Analysis%20Presentation.mp4)
 
 ## Overview
 As part of my internship, I had the privilege of working on the performance analysis of Shield Insurance, an insurance provider. The project involved creating a comprehensive report based on their provided data (November 2022 to April 2023). Shield Insurance extended its services to major cities such as Delhi, Chennai, Ahmedabad, Indore, and Mumbai, offering a diverse range of nine different insurance policies.
