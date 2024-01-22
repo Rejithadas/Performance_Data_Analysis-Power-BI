@@ -5,6 +5,9 @@
 
 **Insight Presentation**: [Video Presentation](https://drive.google.com/file/d/16oTUHXoU5rEZHP7I3WVOOJ7Cf1td9DZy/view?usp=sharing)
 
+## Data Model
+![image](https://github.com/Rejithadas/Performance_Data_Analysis-Power-BI/assets/101463488/fcd8fe8c-3342-41be-b7c7-3a4958257fd5)
+
 ## Overview
 As part of my internship, I had the privilege of working on the performance analysis of Shield Insurance, an insurance provider. The project involved creating a comprehensive report based on their provided data (November 2022 to April 2023). Shield Insurance extended its services to major cities such as Delhi, Chennai, Ahmedabad, Indore, and Mumbai, offering a diverse range of nine different insurance policies.
 
